@@ -1,1 +1,3 @@
-# Snakemake_Tuto_DroughtIndex
+# #Readme
+
+# Snakemake_Tuto_DroughtIndex learning skills
